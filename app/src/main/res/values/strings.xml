@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Rank_Watch</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="region_prompt">Select Region</string>
+
+    <string-array name="region_array">
+        <item>EUNE</item>
+        <item>EUW</item>
+        <item>NA</item>
+        <item>KR</item>
+    </string-array>
+    <string name="title_activity_tft_player">TftPlayerActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <!-- New strings added for the dropdown menu -->
+    <string name="search_hint">Search Player</string>
+    <string name="search_button_text">Search</string>
+    <string name="wins">Wins:</string>
+    <string name="losses">Losses:</string>
+    <string name="search_player">Search Player</string>
+    <string name="search">Search</string>
+    <string name="league_of_legends_players">League of Legends Players</string>
+    <string name="tft_players">TFT Players</string>
+    <string name="about_fragment">About Fragment</string>
+    <string name="delete">Delete</string>
+    <string name="add_to_favorites">Add to Favorites</string>
+    <string name="update">Update</string>
+    <string name="rankwatch">RankWatch</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Primary Color -->
+    <color name="primary">#000000</color>
+
+    <!-- Secondary Color -->
+    <color name="secondary">#262626</color>
+    <!-- Accent Color -->
+    <color name="accent">#e77a4c</color>
+    <!-- Text Color -->
+    <color name="text">#fef2ea</color>
+    <!-- Neutral Colors -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+</resources>
